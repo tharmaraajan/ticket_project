@@ -1,0 +1,13 @@
+#ticket-box {
+    background-color: white;
+    border-radius: 20px;
+}
+
+img {
+    margin: 2%;
+}
+
+#ticket-label {
+    margin-top: 3%;
+    font-size: 20px;
+}

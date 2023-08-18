@@ -1,0 +1,16 @@
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.dropdown-item:hover {
+    background-color: black;
+}
+
+.menu {
+    background-color: grey;
+    width: 95%;
+}

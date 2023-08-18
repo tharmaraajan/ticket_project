@@ -1,0 +1,21 @@
+.form_box {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.ct-input {
+    border: 1px solid;
+}
+
+.ct:active {
+    border-color: black;
+}
+
+.ct-btn {
+    background-color: blueviolet;
+    border: none;
+}

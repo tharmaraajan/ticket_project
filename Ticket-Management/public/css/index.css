@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+}
+
+label {
+    color: white;
+    font-family: Helvetica, serif;
+    font-size: 60px;
+    text-shadow: 2px 2px black;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    box-shadow: 2px 2px 2px 2px black;
+    text-shadow: 2px 2px black;
+}
+
+svg {
+    margin-bottom: 4%;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+svg:active {
+    transform: translateY(1px);
+}
+
+.caption {
+    margin-bottom: 15%;
+}
